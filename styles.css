@@ -1,0 +1,100 @@
+body
+{
+    background-color: #333333;
+    color: #d3d3d3;
+}
+
+
+h1
+{
+    text-align: center;
+    font-family: "Verdana", "Times New Roman";
+}
+
+
+#ProfileDiv
+{
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 8em;
+    width: 8em;
+}
+
+
+#ProfilePic
+{
+    border-radius: 50%;
+    height: 8em;
+    width: 8em;
+}
+
+
+#container
+{
+    background-color: #404040;
+    margin: auto;
+    margin-top: 25px;
+    padding: 0;
+    height: 1000px;
+    width: 1000px;
+}
+
+#aboutme
+{
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    height: auto;
+    width: 45%;
+    /*border: 2px solid black;*/
+
+}
+
+#interests
+{
+    float: right;
+    clear: right;
+    margin: 1%;
+    padding: 1%;
+    height: auto;
+    width: 45%;
+    /*border: 2px solid black;*/
+}
+
+.textbox
+{
+    background-color: #666666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
